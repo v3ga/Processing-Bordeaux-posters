@@ -9,7 +9,7 @@ For Processing Bordeaux #07 up to #14, a serie of posters was created in collabo
 [www.processingbordeaux.org](http://www.processingbordeaux.org/)
 
 ![Processing Bordeaux tools interface](http://v3ga.github.io/Images/Processing-Bordeaux/Processing_Bordeaux_tools.png)
-![Processing Bordeaux poster #07 #08](http://v3ga.github.io/Images/Processing-Bordeaux/Processing_Bordeaux_#07_#08.jpg)
-![Processing Bordeaux poster #09 #10](http://v3ga.github.io/Images/Processing-Bordeaux/Processing_Bordeaux_#09_#10.jpg)
-![Processing Bordeaux poster #11 #12](http://v3ga.github.io/Images/Processing-Bordeaux/Processing_Bordeaux_#11_#12.jpg)
-![Processing Bordeaux poster #13 #14](http://v3ga.github.io/Images/Processing-Bordeaux/Processing_Bordeaux_#13_#14.jpg)
+![Processing Bordeaux poster #07 #08](http://v3ga.github.io/Images/Processing-Bordeaux/Processing_Bordeaux_07_08.jpg)
+![Processing Bordeaux poster #09 #10](http://v3ga.github.io/Images/Processing-Bordeaux/Processing_Bordeaux_09_10.jpg)
+![Processing Bordeaux poster #11 #12](http://v3ga.github.io/Images/Processing-Bordeaux/Processing_Bordeaux_11_12.jpg)
+![Processing Bordeaux poster #13 #14](http://v3ga.github.io/Images/Processing-Bordeaux/Processing_Bordeaux_13_14.jpg)
